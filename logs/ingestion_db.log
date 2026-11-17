@@ -1,0 +1,30 @@
+2026-10-08 12:31:56,988 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//begin_inventory.csv
+2026-10-08 12:31:57,305 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 12:31:59,457 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//end_inventory.csv
+2026-10-08 12:31:59,797 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 12:32:01,996 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//purchases.csv
+2026-10-08 12:32:07,364 - INFO - Ingesting purchases.csv in db
+2026-10-08 12:32:42,549 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//purchase_prices.csv
+2026-10-08 12:32:42,670 - INFO - Ingesting purchase_prices.csv in db
+2026-10-08 12:32:42,792 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//sales.csv
+2026-10-08 12:33:02,023 - INFO - Ingesting sales.csv in db
+2026-10-08 12:37:29,541 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//vendor_invoice.csv
+2026-10-08 12:37:31,161 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-08 12:37:31,284 - INFO - --------------Ingestion Complete------------
+2026-10-08 12:37:31,284 - INFO - 
+Total Time Taken: 5.574984761079152 minutes
+2026-10-08 12:45:18,385 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//begin_inventory.csv
+2026-10-08 12:45:18,681 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 12:45:20,849 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//end_inventory.csv
+2026-10-08 12:45:21,188 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 12:45:23,484 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//purchases.csv
+2026-10-08 12:45:28,533 - INFO - Ingesting purchases.csv in db
+2026-10-08 12:46:03,052 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//purchase_prices.csv
+2026-10-08 12:46:03,184 - INFO - Ingesting purchase_prices.csv in db
+2026-10-08 12:46:03,330 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//sales.csv
+2026-10-08 12:46:22,278 - INFO - Ingesting sales.csv in db
+2026-10-08 12:51:55,306 - DEBUG - open file: D://A_Fusion_Institute_A//Projects//Supplier Quality & Performance Analysis//Dataset//raw_data//vendor_invoice.csv
+2026-10-08 12:51:58,639 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-08 12:51:58,876 - INFO - --------------Ingestion Complete------------
+2026-10-08 12:51:58,877 - INFO - 
+Total Time Taken: 6.67670400540034 minutes
